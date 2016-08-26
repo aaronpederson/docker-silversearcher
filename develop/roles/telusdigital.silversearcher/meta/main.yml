@@ -1,0 +1,14 @@
+---
+dependencies:
+
+galaxy_info:
+  author: "Chris Olstrom"
+  company: "TELUS digital"
+  description: "The Silver Searcher - A code searching tool similar to ack, with a focus on speed."
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+      - trusty
+  categories:
+    - development
