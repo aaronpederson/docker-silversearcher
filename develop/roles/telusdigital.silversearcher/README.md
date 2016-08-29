@@ -9,7 +9,7 @@
 
 Tunables
 --------
-* None
+* `silversearcher_emacs_integration` (boolean) - Using emacs?
 
 Dependencies
 ------------
