@@ -2,7 +2,7 @@
 
 [Silversearcher](https://github.com/ggreer/the_silver_searcher) - A code searching tool similar to ack, with a focus on speed.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/silversearcher.svg)](https://microbadger.com/images/aaronpederson/silversearcher "Get your own image badge on microbadger.com")
 
 Tunables
 --------
